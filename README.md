@@ -20,8 +20,10 @@
   <img src="https://img.shields.io/badge/Graphic%20Design-Professional-yellow?style=for-the-badge" />
   </p>
 <p style="margin-top: 40px;">
+  <div align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=cyan&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=cyan&style=for-the-badge" />
+    </div>
 </p>
 
 <p align="center">
