@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/Web%20Development-Expert-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android%20Apps-Creative-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Graphic%20Design-Professional-yellow?style=for-the-badge" />
-<p style="margin-top: 40px;">This text appears lower</p>
+  </p>
+<p style="margin-top: 40px;">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=cyan&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=cyan&style=for-the-badge" />
 </p>
