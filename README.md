@@ -68,9 +68,9 @@
 **GitHub:** [@Sahan_Weerasinghe](https://github.com/SahaN_Weerasinghe)
 
 ---
-
+<p align="center">
 > 😍 "Driven by passion, powered by innovation." – *Sahan* 😎
-
+</p>
 ---
 
 > 💡 Want a sleek web or mobile product? Reach out and let's make it happen!
