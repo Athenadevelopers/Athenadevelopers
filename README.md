@@ -69,7 +69,7 @@
 
 ---
 
-> "Driven by passion, powered by innovation." – *Sahan*
+> 😍 "Driven by passion, powered by innovation." – *Sahan* 😎
 
 ---
 
