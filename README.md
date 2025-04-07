@@ -56,6 +56,7 @@
   <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-ffcb2f?logo=firebase&logoColor=white" />
     </div>
 </p>
 
