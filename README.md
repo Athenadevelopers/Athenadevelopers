@@ -62,4 +62,15 @@
 
 ---
 
+## 👤 Owner
+
+**Name:** Sahan Weerasinghe  
+**GitHub:** [@Sahan_Weerasinghe](https://github.com/SahaN_Weerasinghe)
+
+---
+
+> "Driven by passion, powered by innovation." – *Sahan*
+
+---
+
 > 💡 Want a sleek web or mobile product? Reach out and let's make it happen!
