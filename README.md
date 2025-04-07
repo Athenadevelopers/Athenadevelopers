@@ -5,7 +5,10 @@
 <h2 align="center">👋 Welcome to Athena Development (Pvt) Ltd</h2>
 <p align="center">
   Building modern Web, Android, and Graphics solutions.
- we specialize in delivering cutting-edge digital solutions. With a focus on **Web Design**, **Android App Development**, **UI/UX Graphics**, and **Full-Stack Web Development**, we are your one-stop tech partner for turning ideas into scalable products.
+ 
+  we specialize in delivering cutting-edge digital solutions.
+  With a focus on **Web Design**, **Android App Development**, **UI/UX Graphics**, and **Full-Stack Web Development**, 
+  we are your one-stop tech partner for turning ideas into scalable products.
 </p>
 
 ---
