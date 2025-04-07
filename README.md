@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/206496610?s=400&u=c090b67c39dbc7bd13241c8686b4a07766f8b593&v=4" width="150" alt="Athena Logo"/>
 </p>
 
-<h2 align="center">👋 Welcome to Athena Development (Pvt) Ltd</h2>
+<h2 align="center">👋 Welcome to Athena Development 🙏 (Pvt) Ltd</h2>
 <p align="center">
   Building modern Web, Android, and Graphics solutions.
  </p>
