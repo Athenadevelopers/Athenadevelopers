@@ -11,7 +11,7 @@
   With a focus on,
 </p>
 <p align="center">
-  __Web Design, Android App Development, UI/UX Graphics, and Full-Stack Web Development__ we are your one-stop tech partner for turning ideas into scalable products.
+ **Web Design**, **Android App Development**, **UI/UX Graphics**, and **Full-Stack Web Development** we are your one-stop tech partner for turning ideas into scalable products.
 </p>
 
 ---
