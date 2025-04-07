@@ -69,9 +69,9 @@
 
 ---
 <p align="center">
-> 😍 "Driven by passion, powered by innovation." – *Sahan* 😎
+> 😍 "Driven by passion, powered by innovation." – *Sahan* 😎 <
  </p> 
 ---
 <p align="center">
-> 💡 Want a sleek web or mobile product? Reach out and let's make it happen!
+💡 Want a sleek web or mobile product? Reach out and let's make it happen!
 </p>
