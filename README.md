@@ -75,7 +75,9 @@
  </p> 
 
 <p align="center">
-💡 Want a sleek web or mobile product? Reach out and let's make it happen! 
+  <p style="margin-top: 40px;">
+💡 Want a sleek web or mobile product? Reach out and let's make it happen!
+    </p>
 </p>
 
 <p align="center">
