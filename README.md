@@ -78,9 +78,8 @@
 💡 Want a sleek web or mobile product? Reach out and let's make it happen!
 </p>
 
-
-<p align="center">
-  <p style="margin-top: 60px;">
+ <p style="margin-top: 60px;">
+   <p align="center">
 Unauthorized use, reproduction or distribution of any materials contained in this repository is strictly prohibited without prior written permission from Athena Development (Pvt) Ltd.
     </p>
 </p>
