@@ -20,7 +20,7 @@ At **Noventra Web Solutions (Pvt) Ltd**, we take the security of our software an
 ### How to Report
 Please **do not** open a public GitHub issue for security vulnerabilities. Instead, send a detailed report to our security team:
 
-* **Email:** info@noventra.com (or your preferred security email)
+* **Email:** noventrawebsolutions@gmail.com (or your preferred security email)
 * **Subject:** Security Vulnerability Report - [Project Name]
 
 ### What to Include
