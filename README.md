@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/206496610?s=400&u=c090b67c39dbc7bd13241c8686b4a07766f8b593&v=4" width="150" alt="Athena Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/206496610?s=400&u=c090b67c39dbc7bd13241c8686b4a07766f8b593&v=4" width="150" alt="Noventra Logo"/>
 </p>
 
-<h2 align="center">👋 Welcome to Athena Development (Pvt) Ltd🙏 </h2>
+<h2 align="center">👋 Welcome to Noventra Web Solutions (Pvt) Ltd🙏 </h2>
 <p align="center">
   Building modern Web, Android, and Graphics solutions.
  </p>
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 Athena's GitHub Stats
+### 📊 Noventra's GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Athenadevelopers&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athenadevelopers&layout=compact&theme=tokyonight&hide_border=true" />
@@ -80,12 +80,12 @@
 
  <p style="margin-top: 60px;">
    <p align="center">
-Unauthorized use, reproduction or distribution of any materials contained in this repository is strictly prohibited without prior written permission from Athena Development (Pvt) Ltd.
+Unauthorized use, reproduction or distribution of any materials contained in this repository is strictly prohibited without prior written permission from Noventra Web Solutions (Pvt) Ltd.
     </p>
 </p>
 
 
-© 2025 Athena Development (Pvt) Ltd.
+© 2026 Noventra Web Solutions (Pvt) Ltd.
 Building modern Web, Android, and Graphics solutions.
 
 All rights reserved.
