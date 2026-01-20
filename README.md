@@ -36,8 +36,8 @@
 
 ### 📊 Noventra's GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoventraWebSolutions&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoventraWebSolutions&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Athenadevelopers&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athenadevelopers&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,4 +89,5 @@ Unauthorized use, reproduction or distribution of any materials contained in thi
 Building modern Web, Android, and Graphics solutions.
 
 All rights reserved.
+
 
